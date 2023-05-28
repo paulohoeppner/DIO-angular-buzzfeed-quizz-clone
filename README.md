@@ -1,27 +1,57 @@
-# ProjetoBuzzfeed
+# <div align="center">**Potência Tech Angular Developer - Powered by iFood**</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<div align="center">
+    <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
+    <img src="assets\images\potencia_tech-logo.jpg" width="200" height="100" hspace="25" style="margin: 25px">
+    <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
+</div>
 
-## Development server
+## <div align="center">**BOOTCAMP DIO**</div>     
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
+</div>
+<br>
 
-## Code scaffolding
+</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/IN%C3%8DCIO-14%2F03%2F2023-green" hspace="5"/>
+    <img src="https://img.shields.io/badge/T%C3%89RMINO-30%2F05%2F2023-red" hspace="5"/>
+</div>
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Introdução
+Olá,
 
-## Build
+Esse repositório corresponde ao projeto 
+"Criando um Clone do BuzzFeed com Angular" da [DIO](https://www.dio.me/) (Digital Innovation One).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Objetivo
 
-## Running unit tests
+Esse projeto consiste na criação de um clone do site BuzzFeed com um quizz a ser respondido  utilizando o framework Angular. Inicialmente temos o projeto base com um banco de dados fictício "Você seria um herói ou vilão?" by [Felipe Aguiar](https://github.com/felipeAguiarCode).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Próximos passos, haverá implementações para evolução do projeto inicial, utilizando a mesma estrutura.
 
-## Running end-to-end tests
+## Tecnologias Utilizadas
+- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90" height="15" hspace="5" style="margin-left: 5px"/>
+- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="120" height="15" hspace="5" style="margin-left: 5px"/> 
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="15" hspace="5" style="margin-left: 10px"/>
+- TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="15" hspace="5" style="margin-left: 10px"/>
+- Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" height="15" hspace="5" style="margin-left: 10px"/>          
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Cursos Envolvidos
+### **Bootcamp Potência Tech Angular Developer - Powered by iFood** 
+#### **Trabalhando com Rotas e Serviços no Angular:**
 
-## Further help
+- Criando um Clone do BuzzFeed com Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Agradecimentos
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Felipe Aguiar](https://github.com/felipeAguiarCode) por compatilhar seu conhecimento. 
+
+
+
